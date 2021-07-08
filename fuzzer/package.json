@@ -14,7 +14,7 @@
     "chalk": "^2.4.1",
     "immutable": "^3.8.2",
     "pretty-ms": "^3.2.0",
-    "sqlite3": "^4.0.2",
+    "sqlite3": "^4.2.0",
     "testcheck": "npm:@calebmer/testcheck@1.0.0-rc.5"
   }
 }
