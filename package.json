@@ -63,15 +63,15 @@
     "fuzz-overnight": "cd fuzzer && yarn && yarn overnight"
   },
   "dependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.23.2",
     "@babel/generator": "^7.0.0",
-    "@babel/node": "^7.0.0",
+    "@babel/node": "^7.13.12",
     "@babel/parser": "^7.0.0",
     "@babel/preset-flow": "^7.0.0",
     "@babel/template": "^7.0.0",
     "@babel/traverse": "^7.0.0",
     "@babel/types": "^7.0.0",
-    "fbjs": "^0.8.16",
+    "fbjs": "^0.8.18",
     "node-zip": "^1.1.1",
     "queue-fifo": "^0.2.3",
     "seedrandom": "^2.4.2",
